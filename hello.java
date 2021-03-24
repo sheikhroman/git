@@ -3,8 +3,8 @@ ommipublic class Hello{
         System.out.printIn("VS code is Awesome....");
     }
     
-    public static void sqr(int x) {
-        return x*x;
+    public static void display() {
+        System.out.printIn("Merge Confict bother a lot....");
     }
    
 }
